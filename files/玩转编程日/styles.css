@@ -1696,13 +1696,27 @@
   text-transform:none;
   visibility:hidden;
 }
-#u48_img {
+#u48_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:489px;
-  height:255px;
+  width:479px;
+  height:245px;
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.349019607843137);
+  -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.349019607843137);
+  box-shadow:5px 5px 5px rgba(0, 0, 0, 0.349019607843137);
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC', sans-serif;
+  font-weight:650;
+  font-style:normal;
+  font-size:24px;
+  color:#D7D7D7;
+  line-height:40px;
 }
 #u48 {
   border-width:0px;
