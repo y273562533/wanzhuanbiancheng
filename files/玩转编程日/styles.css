@@ -3217,7 +3217,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:239px;
+  width:267px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3226,23 +3226,17 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times-Roman', 'Times', sans-serif;
-  font-weight:400;
-  font-style:normal;
-  color:#555555;
+  color:#D9001B;
 }
 #u93 {
   border-width:0px;
   position:absolute;
   left:744px;
   top:1310px;
-  width:239px;
+  width:267px;
   height:20px;
   display:flex;
-  font-family:'Times-Roman', 'Times', sans-serif;
-  font-weight:400;
-  font-style:normal;
-  color:#555555;
+  color:#D9001B;
 }
 #u93 .text {
   position:absolute;

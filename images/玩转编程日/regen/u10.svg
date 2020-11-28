@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="489px" height="255px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient cx="853.786821705426" cy="634.510869565217" r="433.940581395349" gradientTransform="matrix(0 0.455288139599005 -1 0 1488.29769127064 245.791855896806 )" gradientUnits="userSpaceOnUse" id="RadialGradient825">
-      <stop id="Stop826" stop-color="#027db4" offset="0" />
-      <stop id="Stop827" stop-color="#8400ff" offset="0.91" />
-      <stop id="Stop828" stop-color="#000000" offset="1" />
+    <radialGradient cx="853.786821705426" cy="634.510869565217" r="433.940581395349" gradientTransform="matrix(0 0.455288139599005 -1 0 1488.29769127064 245.791855896806 )" gradientUnits="userSpaceOnUse" id="RadialGradient837">
+      <stop id="Stop838" stop-color="#027db4" offset="0" />
+      <stop id="Stop839" stop-color="#8400ff" offset="0.91" />
+      <stop id="Stop840" stop-color="#000000" offset="1" />
     </radialGradient>
-    <filter x="618px" y="520px" width="489px" height="255px" filterUnits="userSpaceOnUse" id="filter829">
+    <filter x="618px" y="520px" width="489px" height="255px" filterUnits="userSpaceOnUse" id="filter841">
       <feOffset dx="5" dy="5" in="SourceAlpha" result="shadowOffsetInner" />
       <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
       <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
       <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.349019607843137 0  " in="shadowComposite" />
     </filter>
-    <g id="widget830">
-      <path d="M 618.5 520.5  L 1096.5 520.5  L 1096.5 764.5  L 618.5 764.5  L 618.5 520.5  Z " fill-rule="nonzero" fill="url(#RadialGradient825)" stroke="none" />
+    <g id="widget842">
+      <path d="M 618.5 520.5  L 1096.5 520.5  L 1096.5 764.5  L 618.5 764.5  L 618.5 520.5  Z " fill-rule="nonzero" fill="url(#RadialGradient837)" stroke="none" />
       <path d="M 618.5 520.5  L 1096.5 520.5  L 1096.5 764.5  L 618.5 764.5  L 618.5 520.5  Z " stroke-width="1" stroke="#797979" fill="none" />
     </g>
   </defs>
   <g transform="matrix(1 0 0 1 -618 -520 )">
-    <use xlink:href="#widget830" filter="url(#filter829)" />
-    <use xlink:href="#widget830" />
+    <use xlink:href="#widget842" filter="url(#filter841)" />
+    <use xlink:href="#widget842" />
   </g>
 </svg>
